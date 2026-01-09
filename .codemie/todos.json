@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "projectPath": "/Users/balovb/Documents/dial-course/ai-dial-guardrails",
+    "projectHash": "145b67376a1f",
+    "lastModified": "2026-01-08T14:37:30.109Z",
+    "sessionId": "1767881791919-w9t44o"
+  },
+  "todos": [
+    {
+      "content": "Fix model name typo from 'gpt-5-mini-2025-08-07' to 'gpt-4o-mini'",
+      "status": "pending",
+      "index": 0,
+      "timestamp": "2026-01-08T14:37:30.108Z"
+    },
+    {
+      "content": "Fix API version to stable '2024-02-01'",
+      "status": "pending",
+      "index": 1,
+      "timestamp": "2026-01-08T14:37:30.108Z"
+    },
+    {
+      "content": "Set temperature to 0 for deterministic security validation",
+      "status": "pending",
+      "index": 2,
+      "timestamp": "2026-01-08T14:37:30.108Z"
+    },
+    {
+      "content": "Create AzureChatOpenAI client with correct configuration",
+      "status": "pending",
+      "index": 3,
+      "timestamp": "2026-01-08T14:37:30.108Z"
+    },
+    {
+      "content": "Create ValidationResult Pydantic model with proper fields",
+      "status": "pending",
+      "index": 4,
+      "timestamp": "2026-01-08T14:37:30.108Z"
+    },
+    {
+      "content": "Implement validate() function with error handling",
+      "status": "pending",
+      "index": 5,
+      "timestamp": "2026-01-08T14:37:30.108Z"
+    },
+    {
+      "content": "Enhanced VALIDATION_PROMPT to detect all attack types from PROMPT_INJECTIONS_TO_TEST.md",
+      "status": "pending",
+      "index": 6,
+      "timestamp": "2026-01-08T14:37:30.108Z"
+    },
+    {
+      "content": "Create messages array with system prompt and profile",
+      "status": "pending",
+      "index": 7,
+      "timestamp": "2026-01-08T14:37:30.108Z"
+    },
+    {
+      "content": "Implement console chat loop with LLM",
+      "status": "pending",
+      "index": 8,
+      "timestamp": "2026-01-08T14:37:30.108Z"
+    },
+    {
+      "content": "Add API key validation at startup",
+      "status": "pending",
+      "index": 9,
+      "timestamp": "2026-01-08T14:37:30.108Z"
+    },
+    {
+      "content": "Add validation status messages for better UX",
+      "status": "pending",
+      "index": 10,
+      "timestamp": "2026-01-08T14:37:30.108Z"
+    },
+    {
+      "content": "Enhanced system message to explicitly state what information should never be shared",
+      "status": "pending",
+      "index": 11,
+      "timestamp": "2026-01-08T14:37:30.108Z"
+    },
+    {
+      "content": "Test with prompts from PROMPT_INJECTIONS_TO_TEST.md",
+      "status": "pending",
+      "index": 12,
+      "timestamp": "2026-01-08T14:37:30.108Z"
+    },
+    {
+      "content": "Verify network connectivity to DIAL_URL endpoint",
+      "status": "pending",
+      "index": 13,
+      "timestamp": "2026-01-08T14:37:30.108Z"
+    }
+  ]
+}
